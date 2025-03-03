@@ -12,5 +12,4 @@ function printChessboard(size) {
   }
 }
 
-// Example usage
 printChessboard(8);
